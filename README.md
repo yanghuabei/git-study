@@ -1,4 +1,4 @@
-test merge confilt
+test merge confilts
 
 I a line2.
 
