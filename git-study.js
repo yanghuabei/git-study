@@ -8,7 +8,7 @@
  */
 define(
     function (require) {
-        var u = require('common/util');
+        var u = require('common/utils');
         
         var exports = {};
 
