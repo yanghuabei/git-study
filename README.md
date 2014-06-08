@@ -8,3 +8,4 @@ It may be a interesting thing!
 
 branch1 add a line.
 
+branch1 add another line.
