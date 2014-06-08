@@ -8,7 +8,7 @@
  */
 define(
     function (require) {
-        var u = require('common/utils');
+        var u = require('common/utilssss');
         var ListModel = require('ub-ria/ListModel');
         
         var exports = {};
@@ -16,6 +16,7 @@ define(
 
         exports.setGlobalData = function (data) {
             this.addData('global', data);
+            this.addData('local', data);
         };
 
         /**
