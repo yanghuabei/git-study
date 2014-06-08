@@ -8,9 +8,11 @@
  */
 define(
     function (require) {
-        var u = require('common/util');
+        var u = require('common/utils');
+        var ListModel = require('ub-ria/ListModel');
         
         var exports = {};
+        var test = { name: 'test' };
 
         exports.setGlobalData = function (data) {
             this.addData('global', data);
