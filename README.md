@@ -1,8 +1,10 @@
 test merge confilt
 
-I a line.
+I a line1.
 
 I will be modified by two branch!
 
 It may be a interesting thing!
+
+branch1 add a line.
 
