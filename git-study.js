@@ -16,6 +16,7 @@ define(
 
         exports.setGlobalData = function (data) {
             this.addData('global', data);
+            this.addData('local', data);
         };
 
         /**
