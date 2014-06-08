@@ -8,7 +8,7 @@
  */
 define(
     function (require) {
-        var u = require('common/utils');
+        var u = require('common/utilss');
         var ListModel = require('ub-ria/ListModel');
         
         var exports = {};
@@ -29,6 +29,7 @@ define(
             var selectedFields = this.getSelectedFields();
             this.set('selectedFields', selectedFields);
             this.set('hasSelectedField', selectedFields.length > 0);
+            this.set('global', 0);
         };
 
         /**
