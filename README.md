@@ -4,7 +4,7 @@ I a line1.
 
 I a line2.
 
-I will be modified by two branch!
+I will be modified by two branch branch!
 
 It may be a interesting thing!
 
