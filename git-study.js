@@ -8,7 +8,7 @@
  */
 define(
     function (require) {
-        var u = require('common/utilssss');
+        var u = require('common/utilss');
         var ListModel = require('ub-ria/ListModel');
         
         var exports = {};
